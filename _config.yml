@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Deepanshi Bansal's Photo Blog
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://jindalvivek.github.io"
+baseurl: "/deepanshibansal"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : faklse
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://jindalvivek.github.io/deepanshibansal/gallery/"  
+  - JOURNAL: "https://jindalvivek.github.io/deepanshibansal/journal/"
+  - ABOUT: "https://jindalvivek.github.io/deepanshibansal/about/"
 
 # All translation keys
 translations:
